@@ -1,10 +1,8 @@
- <h2 align="center">Olá, sou Fábio Lopes!</h2> 
- <h3 align="center">"Apaixonado por transformar ideias em interfaces visuais atraentes e funcionais."</h3>
+Meu nome é Fabio, tenho 33 anos e sou um apaixonado por tecnologia. Há pouco mais de dois anos, mergulhei no universo da programação, impulsionado pela curiosidade e pela vontade de transformar ideias em soluções inovadoras.
 
-- 🌱 Cursando análise e desenvolvimento de sistemas ...
-- 🤓 Sou um iniciante apaixonado por programação, sempre em busca de aprender e melhorar minhas habilidades. 🎓 Atualmente, estou explorando o ecossistema do React, Next.js e Node.js para construir interfaces modernas e escaláveis 👋...
-- 👯 Minhas habilidades em desenvolvimento ainda estão crescendo, mas estou determinado a contribuir para projetos open-source e colaborar com outros desenvolvedores incríveis por aí....
+Embora tenha iniciado nessa área um pouco mais tarde do que muitos profissionais do mercado, minha experiência anterior em vendas me proporcionou uma visão valiosa: a importância de entender as necessidades do cliente, ouvir atentamente e entregar soluções que realmente fazem a diferença. Esse aprendizado, aliado à minha dedicação contínua, me torna um profissional versátil e pronto para novos desafios.
 
+Estou sempre em busca de conhecimento e aprimoramento, pois acredito que a tecnologia está em constante evolução – e eu quero evoluir com ela.
 ---------------------
 
 <h2 align="center"> 📚 Linguagens que estou aprendendo 📚 </h2>
