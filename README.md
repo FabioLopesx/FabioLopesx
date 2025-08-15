@@ -76,7 +76,6 @@ Consolidar minha carreira como **Desenvolvedor Full Stack**, criando aplicaçõe
 ---
 
 ## 📫 Contato
-- Email: **fabiolopesx6@gmail.com**  
-- LinkedIn: **/in/fabiolopesx**  
+- Email: **fabiolopesx6@gmail.com**   
 
 Se curtiu algum projeto, manda um ⭐ — ajuda demais!
