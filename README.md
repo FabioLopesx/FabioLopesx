@@ -67,7 +67,7 @@ Consolidar minha carreira como **Desenvolvedor Full Stack**, criando aplicaçõe
 
 ---
 
-## 📈 Stats (porque todo dev gosta 😅)
+## 📈 Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=FabioLopesx&show_icons=true&theme=tokyonight&hide_title=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioLopesx&layout=compact&theme=tokyonight" />
